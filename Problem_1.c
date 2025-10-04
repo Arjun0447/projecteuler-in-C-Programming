@@ -1,4 +1,4 @@
-/*Problem number 1 on projecteuler
+/*Problem number 1 on Project Euler
 Find and print all the numbers that are multiple of 3 and 5 below 1000
 Example below 10 are 3,5,6,9*/
 
@@ -17,4 +17,5 @@ int main() {
     }
 
     return 0;
+
 }
