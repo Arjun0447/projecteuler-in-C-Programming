@@ -43,8 +43,8 @@ ProjectEuler-C/
 
 ##🛠️ Tech Stack
 
-Language: C
-Compiler: GCC / MinGW / Clang
+- Language: C
+- Compiler: GCC / MinGW / Clang
 
 ---
 
